@@ -1,0 +1,4 @@
+firstname = 'Michelle'
+lastname = 'Jin'
+PID = 'A16681324'
+github_username = 'miseji'
